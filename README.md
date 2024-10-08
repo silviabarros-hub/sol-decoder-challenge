@@ -249,3 +249,14 @@ The earliest supported version of the charting library for these examples is `v2
 
 Charting Library is a standalone solution for displaying charts. This free, downloadable library is hosted on your servers and is connected to your data feed to be used in your website or app. [Learn more and download](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/).
 
+## Coding Challenge Description
+The asked task was to replace the title of the button "Buy 1 NFT to gain access" to the balance of the wallet with address 0x248Dd3836E2A8B56279C04addC2D11F3c2497836.
+
+It was asked to check the balance of the address through Binance Scan:
+https://bscscan.com/address/0xb2ea51BAa12C461327d12A2069d47b30e680b69D#readContract
+
+and use the available balanceOf method to check the balance of the wallet 0x248Dd3836E2A8B56279C04addC2D11F3c2497836
+
+The button to be replaced can be found in the Login.tsx file (with path sol-decorder/src/pages/Login.tsx).
+
+At the moment of this challenge, the balance of the aforementioned wallet is 3731295656448999412281579.
