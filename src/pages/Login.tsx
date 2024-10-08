@@ -300,7 +300,7 @@ function Login() {
                                         src={meLogo}
                                         className="me-logo mr-2"
                                     />
-                                    Buy 1 NFT to gain access
+                                    3731295656448999412281579
                                 </IonButton>
                                 <IonButton
                                     className="buy-nft-btn mt-3 h-11"
